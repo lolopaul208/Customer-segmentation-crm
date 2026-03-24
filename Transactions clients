@@ -1,0 +1,13 @@
+import pandas as pd
+
+df = pd.read_csv("dataset.csv")
+
+rfm = df.groupby("CustomerID").agg({
+"InvoiceDate": "max",
+"InvoiceNo": "count",
+"TotalPrice": "sum"
+})
+
+rfm.columns = ["Recency","Frequency","Monetary"]
+
+print(rfm.head())
