@@ -3,11 +3,7 @@ Objectif :
 
 Segmenter les clients afin d'améliorer les stratégies marketing.
 
-Dataset :
-
-Transactions clients e-commerce.
-
----
+Dataset : kaggle Transactions clients e-commerce.
 
 # Méthodologie
 
@@ -16,15 +12,11 @@ Transactions clients e-commerce.
 3 Segmentation clients  
 4 Analyse comportementale
 
----
-
 # Insights
 
 Clients VIP  
 Clients fidèles  
-Clients à risque de churn
-
----
+Clients à risque
 
 # Impact Marketing
 
