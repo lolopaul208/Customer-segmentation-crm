@@ -1,0 +1,28 @@
+# E-Commerce Sales & Customer Analytics Dashboard
+
+Ce projet analyse un dataset e-commerce afin d'identifier les tendances de ventes et le comportement client.
+
+Dataset :
+Brazilian E-Commerce Dataset (Kaggle)
+
+Tools :
+Power BI
+Python
+SQL
+
+KPIs analysés :
+
+Total Revenue
+Total Orders
+Average Order Value
+Total Customers
+
+Insights :
+
+- identification des produits les plus rentables
+- analyse du comportement client
+- analyse de la performance commerciale
+
+Objectif :
+
+Aider les équipes marketing à améliorer les campagnes et la stratégie commerciale.
